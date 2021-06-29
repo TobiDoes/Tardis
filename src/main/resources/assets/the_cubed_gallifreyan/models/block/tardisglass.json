@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_cubed_gallifreyan:blocks/decoglass.glass",
+    "up": "the_cubed_gallifreyan:blocks/decoglass.glass",
+    "north": "the_cubed_gallifreyan:blocks/decoglass.glass",
+    "east": "the_cubed_gallifreyan:blocks/decoglass.glass",
+    "south": "the_cubed_gallifreyan:blocks/decoglass.glass",
+    "west": "the_cubed_gallifreyan:blocks/decoglass.glass",
+    "particle": "the_cubed_gallifreyan:blocks/decoglass.glass"
+  }
+}

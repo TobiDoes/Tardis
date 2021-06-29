@@ -1,0 +1,149 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Tardisglass",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tardisglass"
+    },
+    {
+      "name": "TardisBuildingBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tardis_building_block"
+    },
+    {
+      "name": "TardisBlocks",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tardis_blocks"
+    },
+    {
+      "name": "TardisRoundelClosed",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tardis_roundel_closed"
+    },
+    {
+      "name": "TardisRoundelOpen",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tardis_roundel_open"
+    },
+    {
+      "name": "TardisKey",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tardis_key"
+    },
+    {
+      "name": "TardisItems",
+      "type": "tab",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tardis_items"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "tardisenginedrum",
+      "files": [
+        "enginedrum"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "landing",
+      "files": [
+        "landing"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "landinginternal",
+      "files": [
+        "landingint"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "locked",
+      "files": [
+        "locked"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "takeoff",
+      "files": [
+        "takeoff"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.the_cubed_gallifreyan.tardis_key": "Tardis Key",
+      "subtitles.landing": "",
+      "block.the_cubed_gallifreyan.tardis_roundel_open": "Roundel",
+      "block.the_cubed_gallifreyan.tardisglass": "Tardisglass",
+      "itemGroup.tabtardis_blocks": "Tardis Blocks",
+      "subtitles.landinginternal": "",
+      "itemGroup.tabtardis_items": "Tardis Items",
+      "subtitles.locked": "",
+      "block.the_cubed_gallifreyan.tardis_building_block": "Flat Block",
+      "block.the_cubed_gallifreyan.tardis_roundel_closed": "Roundel",
+      "subtitles.tardisenginedrum": "",
+      "subtitles.takeoff": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_cubed_gallifreyan",
+    "modName": "The Cubed Gallifreyan",
+    "version": "1.0.0",
+    "author": "Jordan Arruda, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.thecubedgallifreyan",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

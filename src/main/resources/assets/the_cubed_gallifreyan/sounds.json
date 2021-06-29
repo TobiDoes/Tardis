@@ -1,0 +1,47 @@
+{
+  "tardisenginedrum": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_cubed_gallifreyan:enginedrum",
+        "stream": false
+      }
+    ]
+  },
+  "landing": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_cubed_gallifreyan:landing",
+        "stream": false
+      }
+    ]
+  },
+  "landinginternal": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_cubed_gallifreyan:landingint",
+        "stream": false
+      }
+    ]
+  },
+  "locked": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_cubed_gallifreyan:locked",
+        "stream": false
+      }
+    ]
+  },
+  "takeoff": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_cubed_gallifreyan:takeoff",
+        "stream": false
+      }
+    ]
+  }
+}

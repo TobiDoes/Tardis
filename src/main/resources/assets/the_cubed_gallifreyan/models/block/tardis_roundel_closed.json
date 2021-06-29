@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the_cubed_gallifreyan:blocks/colorableroundel",
+    "particle": "the_cubed_gallifreyan:blocks/colorableroundel"
+  }
+}
