@@ -43,5 +43,14 @@
         "stream": false
       }
     ]
+  },
+  "drwhotheme": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "the_cubed_gallifreyan:theme",
+        "stream": false
+      }
+    ]
   }
 }

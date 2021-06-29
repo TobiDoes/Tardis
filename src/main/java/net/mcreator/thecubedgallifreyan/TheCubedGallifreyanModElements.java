@@ -55,6 +55,8 @@ public class TheCubedGallifreyanModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("the_cubed_gallifreyan", "locked")));
 		sounds.put(new ResourceLocation("the_cubed_gallifreyan", "takeoff"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("the_cubed_gallifreyan", "takeoff")));
+		sounds.put(new ResourceLocation("the_cubed_gallifreyan", "drwhotheme"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("the_cubed_gallifreyan", "drwhotheme")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("the_cubed_gallifreyan").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

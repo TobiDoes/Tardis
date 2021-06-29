@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "galliferyanmusicdisk",
+    "name": "Dr Who Theme Song (11th Doctor) - Murry Gold",
+    "description": "The Theme Song of the 11th Doctor David Tennent",
+    "creativeTab": {
+      "value": "CUSTOM:TardisItems"
+    },
+    "music": {
+      "value": "CUSTOM:drwhotheme"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

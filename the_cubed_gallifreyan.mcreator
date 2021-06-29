@@ -63,6 +63,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tardis_items"
+    },
+    {
+      "name": "DrWhoThemeSong",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dr_who_theme_song"
     }
   ],
   "variable_elements": [],
@@ -106,18 +115,29 @@
       ],
       "category": "master",
       "subtitle": ""
+    },
+    {
+      "name": "drwhotheme",
+      "files": [
+        "theme"
+      ],
+      "category": "master",
+      "subtitle": ""
     }
   ],
   "language_map": {
     "en_us": {
       "item.the_cubed_gallifreyan.tardis_key": "Tardis Key",
       "subtitles.landing": "",
+      "subtitles.drwhotheme": "",
       "block.the_cubed_gallifreyan.tardis_roundel_open": "Roundel",
       "block.the_cubed_gallifreyan.tardisglass": "Tardisglass",
       "itemGroup.tabtardis_blocks": "Tardis Blocks",
       "subtitles.landinginternal": "",
+      "item.the_cubed_gallifreyan.dr_who_theme_song": "Dr Who Theme Song (11th Doctor) - Murry Gold",
       "itemGroup.tabtardis_items": "Tardis Items",
       "subtitles.locked": "",
+      "item.the_cubed_gallifreyan.dr_who_theme_song.desc": "The Theme Song of the 11th Doctor David Tennent",
       "block.the_cubed_gallifreyan.tardis_building_block": "Flat Block",
       "block.the_cubed_gallifreyan.tardis_roundel_closed": "Roundel",
       "subtitles.tardisenginedrum": "",
